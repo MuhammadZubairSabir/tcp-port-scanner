@@ -101,14 +101,3 @@ Do **NOT** scan systems or networks without proper authorization.
 
 **Muhammad Zubair Sabir**
 Cybersecurity Student | Python Developer
-
----
-
-## ⭐ Future Improvements
-
-* Service detection (HTTP, SSH, FTP)
-* Banner grabbing
-* Command-line arguments (`argparse`)
-* Thread pool optimization.
-
-Bas bolo 👍
